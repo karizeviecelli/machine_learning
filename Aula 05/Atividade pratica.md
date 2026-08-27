@@ -73,7 +73,15 @@ c) O que acontece com o KNN com k=1 e com k=100 (dataset de 120 amostras)? Justi
 | 5 | 6 | Sim |
 | 6 | 5 | Sim |
 
-Identifique: (a) nº de instâncias; (b) features; (c) target; (d) supervisionado ou não? Justifique.
+Identifique:
+
+(a) nº de instâncias; 
+
+(b) features; 
+
+(c) target; 
+
+(d) supervisionado ou não? Justifique.
 
 ### 3.3 Classificação de cenários
 a) Agrupar clientes por comportamento de compra sem rótulos → ?

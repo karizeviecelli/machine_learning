@@ -77,8 +77,11 @@ Identifique: (a) nº de instâncias; (b) features; (c) target; (d) supervisionad
 
 ### 3.3 Classificação de cenários
 a) Agrupar clientes por comportamento de compra sem rótulos → ?
+
 b) Prever se e-mail é spam com exemplos rotulados → ?
+
 c) Robô aprende a andar recebendo recompensas → ?
+
 d) Classificar tumores benignos/malignos com exames rotulados → ?
 
 ### 3.4 Prática KNN (cálculo manual)

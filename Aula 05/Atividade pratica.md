@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # ATIVIDADE PRÁTICA: TRATAMENTO DE DADOS, ÁRVORE DE DECISÃO E KNN
 
 **Professora Karize Viecelli** @karizeviecelli — 2026

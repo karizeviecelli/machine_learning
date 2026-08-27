@@ -60,7 +60,9 @@ modelagem com Árvore de Decisão e KNN, geração de gráficos e relatório té
 
 ### 3.1 Conceituais (discursivas)
 a) Explique, com uma analogia própria, por que o tratamento de dados é a etapa mais importante de um projeto de ML.
+
 b) Diferencie Árvore de Decisão e KNN quanto à interpretabilidade. Quando escolher cada um?
+
 c) O que acontece com o KNN com k=1 e com k=100 (dataset de 120 amostras)? Justifique.
 
 ### 3.2 Análise de dataset

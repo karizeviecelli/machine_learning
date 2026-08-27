@@ -4,6 +4,7 @@
 # ATIVIDADE PRÁTICA: TRATAMENTO DE DADOS, ÁRVORE DE DECISÃO E KNN
 
 **Professora Karize Viecelli** @karizeviecelli — 2026
+
 **Disciplina:** Inteligência Artificial | **Turma:** _____ | **Data:** _____
 
 **Objetivo:** aplicar o pipeline completo de ML supervisionado — tratamento de dados,

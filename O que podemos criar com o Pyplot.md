@@ -36,9 +36,7 @@ A documentação oficial apresenta diversos [tipos de gráficos do Matplotlib](h
 | Violino            | `plt.violinplot()`            | Comparar distribuições                            |
 | Gráficos 3D        | `plot_surface()`, `scatter()` | Representar dados em três dimensões               |
 
----
 
-```
 
 ----
 

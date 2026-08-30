@@ -8,6 +8,8 @@
 © @karizeviecelli - 2026
 
 https://colab.research.google.com/drive/1DtIxroblfbH1WlyJrid9-L09Ml1O9c2y?usp=sharing
+---
+
 
 ```text
 Atividade prática

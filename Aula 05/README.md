@@ -4,7 +4,7 @@
 **Carga horária sugerida:** 4 horas\
 **Nível:** introdutório, após Árvore de Decisão e acurácia
 
-**[Link Colab](https://colab.research.google.com/drive/1L1kqqjCdKLxwUOG6_E3UmQPqijEpHIgL?usp=sharing)**
+**[Click aqui - Link Colab](https://colab.research.google.com/drive/1L1kqqjCdKLxwUOG6_E3UmQPqijEpHIgL?usp=sharing)**
 ------------------------------------------------------------------------
 
 ## 1. Onde estamos na trilha?

@@ -9,6 +9,12 @@
 
 https://colab.research.google.com/drive/1DtIxroblfbH1WlyJrid9-L09Ml1O9c2y?usp=sharing
 
+´text
+Atividade prática
+
+´
+https://colab.research.google.com/drive/1LFEpZikJB6pJNsVNKrPHlgkO6HQ3-wT3?usp=sharing
+
 ---
 
 # 1. Introdução

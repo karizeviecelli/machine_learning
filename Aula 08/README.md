@@ -6,8 +6,7 @@
 básico.
 
 
-**Link Colab
-https://colab.research.google.com/drive/1leZI7ShHE4jOMDzievMRley5l27SXEey?usp=sharing**
+**[Click aqui - Link Colab](https://colab.research.google.com/drive/1leZI7ShHE4jOMDzievMRley5l27SXEey?usp=sharing)**
 ------------------------------------------------------------------------
 
 ## 1. Onde estamos?

@@ -3,7 +3,7 @@
 ```text
 O pyplot é um módulo do Matplotlib usado para criar e configurar gráficos.
 
-
+```
 
 
 Pense no `pyplot` como uma caixa de ferramentas de desenho:

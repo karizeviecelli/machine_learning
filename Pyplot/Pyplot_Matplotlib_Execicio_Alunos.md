@@ -1,7 +1,6 @@
-
-        ##Pyplot com Matplotlib — Lista de Exercícios,
-      
-        -  Preencha as células de código seguindo as instruções de cada exercício,
+## Pyplot com Matplotlib — Lista de Exercícios
+     
+-        Preencha as células de código seguindo as instruções de cada exercício,
         Execute as células em ordem (Runtime > Run all) conforme for completando.
         Bom estudo!
         -----

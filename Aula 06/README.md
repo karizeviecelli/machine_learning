@@ -5,7 +5,7 @@
 **Pré-requisitos:** preparação de dados, features, target, treino/teste,
 Árvore de Decisão, KNN e acurácia.
 
-**[Click aqui - Link Colab](https://colab.research.google.com/drive/1sFgVNPYzDT5Qr_BsDkU1dyDyibZNi6FL?usp=sharing**)
+**[Click aqui - Link Colab](https://colab.research.google.com/drive/1sFgVNPYzDT5Qr_BsDkU1dyDyibZNi6FL?usp=sharing)**
 
 ------------------------------------------------------------------------
 
